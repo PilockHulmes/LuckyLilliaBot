@@ -1,4 +1,8 @@
 # LLBot
+
+> 原仓库：[LuckyLilliaDev/LuckyLilliaBot](https://github.com/LuckyLilliaDev/LuckyLilliaBot)
+> 本仓库是 CyberPi 维护用的 fork / 私有镜像，代码以上游为准。
+
 ![Node.js Version](https://img.shields.io/badge/node-%3E=24.x-brightgreen)
 
 <div align="center">
